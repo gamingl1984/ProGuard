@@ -1,0 +1,69 @@
+# ProGuard Discord Bot — Custom License
+
+Copyright (c) 2026 [Bot Owner] — all rights reserved.
+
+> Replace **[Bot Owner]** in this file and in TERMS_OF_SERVICE.md with whatever
+> name, username, or contact you want to make public. You never need to include
+> personal details such as your real name, address, email, or phone number.
+
+## 1. What this license lets you do (for free)
+
+You may:
+- **Use** this bot in your own Discord server(s).
+- **Modify** the source code for your own personal or community use.
+- **Run** modified or unmodified copies on your own hardware or hosting.
+- **Share** unmodified or modified copies with others, as long as ALL of these
+  conditions are met:
+  - You do it **completely free of charge**.
+  - You include a copy of this license with the files.
+  - You keep the original credits and this notice in the source files.
+
+## 2. What is strictly PROHIBITED
+
+You may **NOT**:
+- **Sell, rent, lease, or license** this bot or any modified version of it for
+  money, cryptocurrency, premium access, server boosts, or any other form of
+  payment or compensation. **Selling the bot is prohibited, period.**
+- Offer this bot (or a modified version) as a **paid hosting service**.
+- Put this bot behind a **paywall, subscription, ads, or "premium" unlocks**.
+- **Claim you wrote it** or remove the original credits from the source files.
+- Publish modified versions without clearly stating what you changed and
+  without crediting the original project.
+
+If you want permission to use this bot commercially, you must get **written
+permission from the bot owner first**.
+
+## 3. Malicious use is prohibited
+
+You may not use this bot, or any modified version of it, to:
+- Steal tokens, passwords, or personal data.
+- Operate self-bots or automate user accounts (against Discord's Terms of Service).
+- Build raid tools, spam tools, mass-DM tools, or harassment tools.
+- Attack, damage, or overload any server, service, or computer.
+
+Any malicious use voids this license immediately.
+
+## 4. Discord's rules come first
+
+By using this bot you agree to follow:
+- Discord's Terms of Service: https://discord.com/terms
+- Discord's Community Guidelines: https://discord.com/guidelines
+
+Bots must run as **bots** — never as automated user accounts.
+
+## 5. Your bot token is your responsibility
+
+The bot token is a password to your bot. Never share it, never post it publicly,
+and never include it in copies you distribute. If a token leaks, regenerate it
+in the Discord Developer Portal immediately.
+
+## 6. No warranty
+
+This bot is provided **"as is"**, without warranty of any kind. The author is
+not responsible for any damage, data loss, moderation mistakes, or anything
+else that happens while using it. You use it at your own risk.
+
+## 7. License changes
+
+The bot owner may update this license for future versions. Copies you already
+received stay under the license version that came with them.
